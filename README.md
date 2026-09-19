@@ -1,4 +1,4 @@
-# Hi, I'm Prinshu Kumar Gupta 👋
+# Hi, I'm Prinshu Kumar Gupta(prinshu.dev) 👋
 
 ### 🚀 Full Stack Developer | MERN Stack | DSA Enthusiast
 
