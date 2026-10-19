@@ -1,19 +1,19 @@
-# Hi, I'm Prinshu Kumar Gupta(prinshu.dev) 👋
+# Hi, I'm Prinshu Kumar Gupta(prinshu.dev) 
 
-### 🚀 Full Stack Developer | MERN Stack | DSA Enthusiast
+Software Developer | Generative AI & Agentic AI | RAG | NLP & Computer Vision | Azure Cloud | MERN Stack | 500+ Problems DSA
 
 I'm a B.Tech CSE student passionate about building real-world web applications,
 solving algorithmic problems, and learning modern software engineering practices.
 
 - 🔭 Currently building full-stack applications with the MERN stack
 - 💻 Strong foundation in Java, JavaScript, SQL and DSA
-- 🧩 300+ problems solved on LeetCode
+- 🧩 400+ problems solved on LeetCode
 - 🌱 Currently exploring Data Analytics, Python pipelines and scalable backend systems
 - 🚀 Interested in Full Stack Development and Software Engineering
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 B.Tech Computer Science & Engineering student
 - 💻 Full Stack Developer specializing in the MERN stack
@@ -24,7 +24,7 @@ solving algorithmic problems, and learning modern software engineering practices
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -58,34 +58,15 @@ solving algorithmic problems, and learning modern software engineering practices
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔗 Bondly — Social Media Platform
-
-A full-stack social media application built as a 3W Full Stack Internship assignment.
-
-**Features:**
-- 🔐 JWT authentication
-- 📝 Text and image posts
-- ❤️ Like / unlike
-- 💬 Comments
-- 📱 Responsive UI
-- 📄 Feed pagination
-- ☁️ Cloudinary image storage
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · Cloudinary
-
-🔗 [Live Demo](https://bondly-two-theta.vercel.app/)
-🔗 [Source Code](https://github.com/Prinshu0795/Bondly)
-
----
-
-### 🧠 MindPulse
+### MindPulse
 
 A full-stack application focused on collecting and analyzing user assessment data.
 
 **Tech:** React.js · Node.js · Express.js · MongoDB · Python
 
+Live- https://mindpulse-two.vercel.app
 
 ---
 
@@ -93,7 +74,7 @@ A full-stack application focused on collecting and analyzing user assessment dat
 
 ### LeetCode
 
-- 🟢 300+ problems solved
+- 🟢 500+ problems solved
 - 💡 Strong foundation in DSA
 - ☕ Java for competitive programming
 
@@ -109,7 +90,7 @@ A full-stack application focused on collecting and analyzing user assessment dat
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinshu-kumar-gupta-8a964232b/)
 
